@@ -19,13 +19,14 @@ knitr::opts_chunk$set(
 
 ## 2024
 
-### Presentations
+### Talks
 
-| Date       | Event                                     | Title                                                                 | Link                                               |
-|-----------------|-----------------|---------------------|-----------------|
-| 2024-06-12 | AI4A - Artificial Intelligence for Africa | Text Analysis for Clinical Research - Our current experiences at UBEP | [bit.ly/ai4a-text](https://bit.ly/ai4a-text){.uri} |
-|            |                                           |                                                                       |                                                    |
-|            |                                           |                                                                       |                                                    |
+| Date       | Event                                     | Title                                                                 | Link                                                    |
+|------------|-------------------------------------------|-----------------------------------------------------------------------|-----------=====-----------------------------------------|
+| 2024-12-02 | GdL AI @ INAIL                            | GPT@BEST4SR - Automation and LLMs at BEST                             | [bit.ly/bestgpt-talk](https://bit.ly/bestgpt-talk){.uri}|
+| 2024-06-12 | AI4A - Artificial Intelligence for Africa | Text Analysis for Clinical Research - Our current experiences at UBEP | [bit.ly/ai4a-text](https://bit.ly/ai4a-text){.uri}      |
+|            |                                           |                                                                       |                                                         |
+|            |                                           |                                                                       |                                                         |
 
 ### Workshops
 
