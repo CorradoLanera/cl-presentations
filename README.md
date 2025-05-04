@@ -6,20 +6,22 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
+## 2025
+
+### PhD
+
+| Date | Event | Title | Link |
+|----|----|----|----|
+| 2025-05-08 | Biostatistical Month 2025 | Machine Learning Overview - From Basics to Agents | [bit.ly/phd25-mlt-overview](https://bit.ly/phd25-mlt-overview) |
+
 ## 2024
 
 ### Talks
 
-Date \| Event \| Title \| Link \|
-
-\|————\|——————————————-\|———————————————————————–\|———–=====—————————————–\|
-\| 2024-12-02 \| GdL AI @ INAIL \| <GPT@BEST4SR> - Automation and LLMs
-at BEST \| <a href="https://bit.ly/bestgpt-talk"
-class="uri">bit.ly/bestgpt-talk</a>\| \| 2024-06-12 \| AI4A - Artificial
-Intelligence for Africa \| Text Analysis for Clinical Research - Our
-current experiences at UBEP \|
-<a href="https://bit.ly/ai4a-text" class="uri">bit.ly/ai4a-text</a> \|
-\| \| \| \| \| \| \| \| \| \|
+| Date | Event | Title | Link |
+|----|----|----|----|
+| 2024-12-02 | GdL AI @ INAIL | <GPT@BEST4SR> - Automation and LLMs at BEST | [bit.ly/bestgpt-talk](https://bit.ly/bestgpt-talk) |
+| 2024-06-12 | AI4A - Artificial Intelligence for Africa | Text Analysis for Clinical Research - Our current experiences at UBEP | [bit.ly/ai4a-text](https://bit.ly/ai4a-text) |
 
 ### Workshops
 
